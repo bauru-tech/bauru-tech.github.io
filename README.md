@@ -6,7 +6,7 @@ This project was built with [React](https://reactjs.org/) and [Parcel](https://b
 
 ## Setup
 
-To run this project, install dependencies using `yarn` or `$npm i`
+To run this project, install dependencies using `yarn` or `npm i`
 
 ## Running
 
