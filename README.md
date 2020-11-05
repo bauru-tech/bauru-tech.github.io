@@ -2,7 +2,7 @@
 
 ## General info
 
-This project was built with [React](https://reactjs.org/) and [Parcel](https://blog.jakoblind.no/react-parcel/) 
+This project was built with [Parcel](https://parceljs.org/) and [React](https://reactjs.org/)
 
 ## Setup
 
