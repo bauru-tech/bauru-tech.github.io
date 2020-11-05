@@ -1,31 +1,15 @@
-# Bauru-tech/jobs-api
+# Bauru-tech Website
 
 ## General info
 
-This project was built with React.js and Parcel
-
-Get started at: https://reactjs.org/
-
-Checkout how to create a React app with Parcel: https://blog.jakoblind.no/react-parcel/
+This project was built with [React](https://reactjs.org/) and [Parcel](https://blog.jakoblind.no/react-parcel/) 
 
 ## Setup
-To run this project, install dependencies for React, babel and Parcel.
 
-```
-$npm install --save react
-$npm install --save react-dom
-$npm install --save-dev @babel/preset-react
-$npm install --save-dev @babel/preset-env
-$npm install --save-dev parcel-bundler
-```
-or
+To run this project, install dependencies using `yarn` or `$npm i`
 
-```
-yarn add react
-yarn add react-dom
-yarn add --dev @babel/preset-react
-yarn add --dev @babel/preset-env
-yarn add --dev parcel-bundler
-```
+## Running
 
+`yarn start` or `npm start`
 
+project will be running on https://localhost:1234
