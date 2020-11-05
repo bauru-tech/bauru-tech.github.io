@@ -23,8 +23,8 @@ or
 ```
 yarn add react
 yarn add react-dom
-yarn add --save-dev @babel/preset-react
-yarn add --save-dev @babel/preset-env
+yarn add --dev @babel/preset-react
+yarn add --dev @babel/preset-env
 yarn add --dev parcel-bundler
 ```
 
