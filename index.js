@@ -1,11 +1,19 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { GlobalStyle } from "./components/global.styles";
+import Header from "./components/header";
 
-class HelloMessage extends React.Component {
+export class App extends React.Component {
   render() {
-    return <h1>Ok {this.props.name}</h1>;
+    return (
+      <>
+        <GlobalStyle />
+        <Header />
+      </>
+    );
   }
 }
+export default App;
 
 var mountNode = document.getElementById("app");
-ReactDOM.render(<HelloMessage name="Jane" />, mountNode);
+ReactDOM.render(<App />, mountNode);
